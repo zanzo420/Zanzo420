@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=zanzo420&theme=nord)](https://github.com/zanzo420/github-profile-trophy)
+
 
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://Zanzo.me/blog)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xZanzo420x)
