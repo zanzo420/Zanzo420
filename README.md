@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=zanzo420&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/zanzo420/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zanzo420&theme=darkhub&no-frame=true&no-bg=true&rows=1)](https://github.com/zanzo420/github-profile-trophy)
 
 
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://Zanzo.me/blog)
